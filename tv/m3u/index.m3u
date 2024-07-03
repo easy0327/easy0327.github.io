@@ -37,7 +37,7 @@ https://itv.lat/hls?channel=CCTV-16&token=732106
 https://itv.lat/hls?channel=CCTV-16-4K_8000&token=732106
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 https://itv.lat/hls?channel=CCTV-17&token=732106
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4K 超高清
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
 https://itv.lat/hls?channel=ys4Kcq_2000&token=732106
 #EXTINF:-1 tvg-name="4K超高清电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="央视频道",4K超高清电影
 https://itv.lat/hls?channel=emdy4k_8000&token=732106
