@@ -10,7 +10,7 @@ http://223.106.228.16/mgsp-tx.live.miguvideo.com/wd_r2/cctv/cctv4hd/1500/01.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 http://223.106.228.16/mgsp-tx.live.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/01.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
-https://yang-1989.eu.org/migu/cctv5p
+http://58.248.112.205:8006/GD_CUCC/G_CCTV-5PLUS-CQ.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
 http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
