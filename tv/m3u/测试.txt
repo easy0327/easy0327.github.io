@@ -1,7 +1,7 @@
 综合,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 CCTV-1 综合,https://itv.lat/hls?channel=CCTV-1H265&token=85c53bb8caf87075db8efcb56cab13d6
-CCTV-2 财经,https://itv.lat/hls?channel=CCTV-1H265&token=85c53bb8caf87075db8efcb56cab13d6
+CCTV-2 财经,https://itv.lat/hls?channel=CCTV-2H265&token=85c53bb8caf87075db8efcb56cab13d6
 CCTV-3 综艺,https://itv.lat/hls?channel=CCTV-3H265&token=85c53bb8caf87075db8efcb56cab13d6
 CCTV-4 中文国际,https://itv.lat/hls?channel=CCTV-4H265&token=85c53bb8caf87075db8efcb56cab13d6
 CCTV-5 体育,https://itv.lat/hls?channel=CCTV-5H265&token=85c53bb8caf87075db8efcb56cab13d6
