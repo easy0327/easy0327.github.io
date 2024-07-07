@@ -1,0 +1,19 @@
+[
+  {
+    "group": "央视频道",
+    "logo": "https://live.fanmingming.com/tv/CCTV1.png",
+    "name": "CCTV-1",
+    "title": "综合",
+    "uris": [
+      "https://itv.lat/hls?channel=CCTV-1H265&token=85c53bb8caf87075db8efcb56cab13d6"
+    ],
+     "group": "央视频道",
+    "logo": "https://live.fanmingming.com/tv/CCTV2.png",
+    "name": "CCTV-2",
+    "title": "财经",
+    "uris": [
+      "https://itv.lat/hls?channel=CCTV-2H265&token=85c53bb8caf87075db8efcb56cab13d6"
+    ],
+
+  }
+]
