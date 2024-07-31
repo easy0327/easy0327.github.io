@@ -124,7 +124,7 @@ http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="卫视频道",大湾区卫视
 http://43.141.130.51/dongfang5g-mobile-v51-live.bestvcdn.com.cn/SB/live/program/live/hxwshd4m/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://live.fanmingming.com/tv/安多卫视.png" group-title="卫视频道",安多卫视
-http://stream.qhbtv.com/adws/sd/live.m3u8
+http://43.141.130.51/dongfang5g-mobile-v51-live.bestvcdn.com.cn/SB/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="卫视频道",厦门卫视
 http://43.141.130.51/dongfang5g-mobile-v51-live.bestvcdn.com.cn/SB/live/program/live/xmws/1300000/mnf.m3u8
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="卫视频道",康巴卫视
