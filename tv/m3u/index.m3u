@@ -42,7 +42,7 @@ http://61.144.100.128:8090/udp/239.77.0.194:5146
 #EXTINF:-1 tvg-name="4K超高清电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="央视频道",4K超高清电影
 https://itv.lat/hls?channel=emdy4k_8000&token=567bcc7f346c8ce22e1893cee0f43a3a
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="央视频道",欢笑剧场4K
-https://itv.lat/hls?channel=hxjc-4k_8000&token=567bcc7f346c8ce22e1893cee0f43a3a
+http://222.90.31.220:8899/rtp/239.112.205.236:5140
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
 http://222.90.31.220:8899/rtp/239.112.205.207:5140
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="央视频道",CHC影迷电影
@@ -215,5 +215,4 @@ https://itv.lat/hls?channel=CGTN&token=567bcc7f346c8ce22e1893cee0f43a3a
 http://222.90.31.220:8899/rtp/239.112.205.229:5140
 #EXTINF:-1 tvg-name="回家吃饭" tvg-logo="https://live.fanmingming.com/tv/回家吃饭.png" group-title="地方频道",回家吃饭
 http://222.90.31.220:8899/rtp/239.112.205.234:5140
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="地方频道",欢笑剧场
-http://222.90.31.220:8899/rtp/239.112.205.236:5140
+
