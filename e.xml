@@ -44943,47 +44943,17 @@
 	<channel id="newtv超级综艺">
 		<display-name lang="zh">NEWTV超级综艺</display-name>
 	</channel>
-	<programme channel="newtv超级综艺" start="20261114000000 +0800" stop="20261114020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20261114020000 +0800" stop="20261114040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20261114060000 +0800" stop="20261114080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20261114080000 +0800" stop="20261114100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20261114100600 +0800" stop="20261114120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20261114120000 +0800" stop="20261114140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20261114140000 +0800" stop="20261114160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20261114160000 +0800" stop="20261114180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20261114180000 +0800" stop="20261114190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20261114190000 +0800" stop="20261114200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20261114200000 +0800" stop="20261114220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20261114220000 +0800" stop="20261114235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv超级综艺" start="20261114004100 +0800" stop="20261114012900 +0800">
+		<title lang="zh">32_折腰</title>
 	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
 	<programme channel="newtv超级体育" start="20261114000500 +0800" stop="20261114010600 +0800">
 		<title lang="zh">2026年国际自盟场地自行车世锦赛-3</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20261114010600 +0800" stop="20261114023600 +0800">
+		<title lang="zh">实况录像-2026国际足联U17女足世界杯 决赛</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -44996,6 +44966,9 @@
 	</channel>
 	<programme channel="newtv超级电视剧" start="20261114001600 +0800" stop="20261114010100 +0800">
 		<title lang="zh">21_大江大河</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261114010100 +0800" stop="20261114014700 +0800">
+		<title lang="zh">22_大江大河</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -45548,6 +45521,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20261114000100 +0800" stop="20261114004600 +0800">
 		<title lang="zh">15_风声</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261114004600 +0800" stop="20261114013100 +0800">
+		<title lang="zh">16_风声</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
