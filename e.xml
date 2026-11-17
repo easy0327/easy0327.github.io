@@ -17325,6 +17325,9 @@
 	<programme channel="咪咕综合体育" start="20261117165000 +0800" stop="20261117165500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20261117165500 +0800" stop="20261117183500 +0800">
+		<title lang="zh">大连英博夺冠回顾-2026赛季中超 第29轮 成都蓉城-大连英博海发</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -57650,6 +57653,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20261117160000 +0800" stop="20261117170000 +0800">
 		<title lang="zh">2026年世界摔跤锦标赛-1</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20261117170000 +0800" stop="20261117180000 +0800">
+		<title lang="zh">实况录像-2026年世界泳联游泳世界杯 哈萨克斯坦站 2</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
