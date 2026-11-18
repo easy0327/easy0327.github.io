@@ -58293,6 +58293,9 @@
 	<programme channel="newtv超级体育" start="20261118213000 +0800" stop="20261118223500 +0800">
 		<title lang="zh">体育世界</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20261118223500 +0800" stop="20261118233500 +0800">
+		<title lang="zh">实况录像-WTT法兰克福冠军赛2026 比赛 1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59087,6 +59090,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20261118213400 +0800" stop="20261118221900 +0800">
 		<title lang="zh">面具背后25</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261118221900 +0800" stop="20261118224900 +0800">
+		<title lang="zh">美好生活第六期</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
