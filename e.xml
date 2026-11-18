@@ -15471,6 +15471,9 @@
 	<programme channel="咪咕综合体育" start="20261119004500 +0800" stop="20261119014500 +0800">
 		<title lang="zh">纪录片AC米兰的缔造者</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20261119014500 +0800" stop="20261119015000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -47451,44 +47454,14 @@
 	<programme channel="newtv超级综艺" start="20261119003300 +0800" stop="20261119013100 +0800">
 		<title lang="zh">24_启航：当风起时</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20261119013100 +0800" stop="20261119022100 +0800">
+		<title lang="zh">25_启航：当风起时</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
-	<programme channel="newtv超级体育" start="20261119000000 +0800" stop="20261119020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20261119020000 +0800" stop="20261119040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20261119060000 +0800" stop="20261119080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20261119080000 +0800" stop="20261119100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20261119100600 +0800" stop="20261119120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20261119120000 +0800" stop="20261119140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20261119140000 +0800" stop="20261119160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20261119160000 +0800" stop="20261119180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20261119180000 +0800" stop="20261119190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20261119190000 +0800" stop="20261119200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20261119200000 +0800" stop="20261119220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20261119220000 +0800" stop="20261119235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv超级体育" start="20261119010600 +0800" stop="20261119023600 +0800">
+		<title lang="zh">2026/2027意大利足球甲级联赛-第9轮（米兰—博洛尼亚）</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -47504,6 +47477,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20261119004900 +0800" stop="20261119013400 +0800">
 		<title lang="zh">47_大江大河</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261119013400 +0800" stop="20261119022000 +0800">
+		<title lang="zh">01_大江大河2</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -48059,6 +48035,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20261119004900 +0800" stop="20261119013500 +0800">
 		<title lang="zh">03_女人的抗战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261119013500 +0800" stop="20261119020500 +0800">
+		<title lang="zh">美好生活第六期</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
