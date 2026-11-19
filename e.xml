@@ -57423,6 +57423,9 @@
 	<programme channel="newtv金牌综艺" start="20261119123900 +0800" stop="20261119132400 +0800">
 		<title lang="zh">36_谍战深海之惊蛰[DVD版]</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20261119132400 +0800" stop="20261119141300 +0800">
+		<title lang="zh">木之源脑动力枫籽油健康组-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
