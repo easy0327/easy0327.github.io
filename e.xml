@@ -45192,6 +45192,9 @@
 	<programme channel="newtv超级电视剧" start="20261122024100 +0800" stop="20261122032600 +0800">
 		<title lang="zh">17_大江大河2</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20261122032600 +0800" stop="20261122041200 +0800">
+		<title lang="zh">18_大江大河2</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -45755,6 +45758,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20261122025300 +0800" stop="20261122032300 +0800">
 		<title lang="zh">美好生活第六期</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261122032300 +0800" stop="20261122040800 +0800">
+		<title lang="zh">20_女人的抗战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
